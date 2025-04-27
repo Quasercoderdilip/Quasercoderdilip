@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dilip kumar</h1>
-<h3 align="center">A passionate Python Full stack developer from Chennai</h3>
+<h3 align="center">A passionate Front-end Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quasercoderdilip&label=Profile%20views&color=0e75b6&style=flat" alt="quasercoderdilip" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quasercoderdilip" alt="quasercoderdilip" /></a> </p>
 
-- 🌱 My Technical Skills are **Python, Javascript, Mern, React Js, Node Js, Express Js, Mongo DB, My SQL, Html, CSS, Bootstrap, Flask, Django, PyQt5, TKinter**
+- 🌱 My Technical Skills are **Javascript, Python, Mern, React Js, Node Js, Express Js, Mongo DB, My SQL, Html, CSS, Bootstrap, Flask, Django, PyQt5, TKinter**
 
 - 📫 How to reach me **dilipkumarrajkumar.1101@gmail.com**
 
